@@ -1,11 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=230&section=header&text=JaeHyeon%20Kil&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Product-minded%20Builder&descSize=18&descAlignY=57&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=230&section=header&text=jaehyeon%20Gil&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Frontend%20Developer&descSize=18&descAlignY=57&animation=fadeIn)
 
-### 사용자에게 자연스럽고, 개발자에게 오래 유지되는 제품을 만듭니다.
+### Frontend Developer
 
-React와 TypeScript를 중심으로 아이디어를 실제 서비스 경험으로 구현합니다.<br/>
-UI에 머무르지 않고 API, 인증, 데이터, 배포까지 연결하며 제품 전체를 이해하는 개발자를 지향합니다.
+React와 TypeScript로 웹과 모바일 서비스를 개발하고 있습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zlkdjkdj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zlkdjkdj)
 [![Email](https://img.shields.io/badge/Email-zlkdjkdj%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zlkdjkdj@proton.me)
