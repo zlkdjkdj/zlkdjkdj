@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=230&section=header&text=jaehyeon%20Gil&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Frontend%20Developer&descSize=18&descAlignY=57&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=230&section=header&text=jaehyeon%20Gil&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=57&animation=fadeIn)
 
-### Frontend Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+Web+%26+Mobile+Products;Frontend+%C2%B7+Backend+%C2%B7+Deployment;Learning+%C2%B7+Building+%C2%B7+Improving)](https://git.io/typing-svg)
 
-React와 TypeScript로 웹과 모바일 서비스를 개발하고 있습니다.
+React와 TypeScript, Spring Boot로 웹과 모바일 서비스를 개발하고 있습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zlkdjkdj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zlkdjkdj)
 [![Velog](https://img.shields.io/badge/Velog-zlkjdjkdj-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@zlkjdjkdj/posts)
@@ -18,8 +18,10 @@ React와 TypeScript로 웹과 모바일 서비스를 개발하고 있습니다.
 ## 👋 About Me
 
 ```text
-Frontend      React · TypeScript · Next.js · React Native
-Also enjoy    Spring Boot · REST API · 데이터 시각화 · 서비스 설계
+Frontend      React · TypeScript · Next.js
+Backend       Java · Spring Boot · REST API
+Mobile        React Native · Expo
+Infrastructure AWS · Docker · GitHub Actions
 Interested in 사용자 경험, 실시간 인터랙션, 안전한 인증, 유지보수 가능한 구조
 Currently     제품 완성도와 문제 해결 과정을 함께 보여주는 프로젝트를 만들고 있습니다
 ```
