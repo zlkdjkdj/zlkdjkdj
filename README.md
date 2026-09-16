@@ -7,6 +7,7 @@
 React와 TypeScript로 웹과 모바일 서비스를 개발하고 있습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zlkdjkdj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zlkdjkdj)
+[![Velog](https://img.shields.io/badge/Velog-zlkjdjkdj-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@zlkjdjkdj/posts)
 [![Email](https://img.shields.io/badge/Email-zlkdjkdj%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zlkdjkdj@proton.me)
 [![Instagram](https://img.shields.io/badge/Instagram-replay__road__03-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/replay_road_03/)
 
